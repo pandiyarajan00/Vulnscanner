@@ -1,0 +1,54 @@
+[06/27/2025 03:03:07] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/27/2025 03:03:43] [e(0)] core: Failed to open history file: /home/kali/.msf4/history with error: No such file or directory @ rb_sysopen - /home/kali/.msf4/history
+[06/27/2025 03:04:25] [e(0)] core: Module exploit/multi/samba not found, and no loading errors found. If you're using a custom module refer to our wiki: https://docs.metasploit.com/docs/using-metasploit/intermediate/running-private-modules.html
+[06/27/2025 03:05:47] [e(0)] core: Module exploit/multi/samba not found, and no loading errors found. If you're using a custom module refer to our wiki: https://docs.metasploit.com/docs/using-metasploit/intermediate/running-private-modules.html
+[06/27/2025 03:20:16] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/27/2025 03:22:36] [d(0)] core: Module cmd/unix/bind_aws_instance_connect is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module generic/custom is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module generic/shell_bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/27/2025 03:22:37] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 04:59:39] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/30/2025 05:02:38] [d(0)] core: Module cmd/unix/bind_aws_instance_connect is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module generic/custom is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module generic/shell_bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:02:39] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/bind_aws_instance_connect is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/bind_tcp_uuid is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_http is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_https is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_ssl is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter/reverse_tcp_uuid is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter_bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_http is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_https is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module cmd/unix/python/meterpreter_reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module generic/custom is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module generic/shell_bind_aws_ssm is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module generic/shell_bind_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd
+[06/30/2025 05:06:01] [d(0)] core: Module generic/shell_reverse_tcp is incompatible with multi/samba/usermap_script for PayloadType: limiter was cmd

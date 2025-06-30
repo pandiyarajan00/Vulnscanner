@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Mon Jun 30 04:57:13 2025 as: /usr/lib/nmap/nmap --privileged -sS -sV -T4 -oN fullscan.txt 192.168.56.102
+Nmap scan report for 192.168.56.102
+Host is up (0.000019s latency).
+All 1000 scanned ports on 192.168.56.102 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jun 30 04:57:27 2025 -- 1 IP address (1 host up) scanned in 13.97 seconds
