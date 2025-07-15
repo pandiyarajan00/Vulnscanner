@@ -9,7 +9,7 @@ A Python tool to scan websites for common OWASP Top 10 issues:
 ✅ Generates a professional PDF report  
 🌐 Comes with a modern Streamlit web interface
 
-Built by *Appu* (Diploma Mechanical → ML → Cybersecurity)
+Built by #pandiyarajan# (Diploma Mechanical → ML → Cybersecurity)
 
 ---
 
